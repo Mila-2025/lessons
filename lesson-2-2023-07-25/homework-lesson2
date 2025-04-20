@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>News Article</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      line-height: 1.6;
+    }
+    .top-links a {
+      margin-right: 15px;
+      color: purple;
+      text-decoration: none;
+    }
+    .article {
+      display: flex;
+      align-items: flex-start;
+    }
+    .article img {
+      max-width: 500px;
+      margin-right: 20px;
+    }
+    h1 {
+      font-size: 28px;
+    }
+  </style>
+</head> 
+
+<body> <img src="ap-logo.png" width="50px" alt="AP logo"> 
+    <a href="#">Home/</a>
+    <a href="#">World/</a>
+    <a href="#">Business/</a>
+    <a href="#">Sports/</a>
+    <a href="#">Entertainment/</a>
+  
+    <h4>U.S. NEWS</h4>
+
+  <h1>US Supreme Court asked to set aside ruling that blocks construction on Mountain Valley Pipeline</h1>
+
+  <div class="article">
+    <img src="construction-site.webp" alt="construction-site">
+    <div>
+      <p><strong>BY JOHN RABY</strong><br>
+      Published 7:53 PM CEST, July 24, 2023</p>
+
+      <p>CHARLESTON, W.Va. (AP) The fate of a controversial natural gas pipeline in West Virginia may rest with the U.S. Supreme Court, as the state appealed a lower court’s ruling that temporarily blocked construction despite a Congressional order clearing the way for the project.</p>
+      <p>West Virginia Attorney General Patrick Morrisey argued that the 4th Circuit Court of Appeals in Richmond, Virginia, lacked jurisdiction to block the Mountain Valley Pipeline. In a statement, he said Congress’ action must be heard by a federal appeals court in Washington, D.C.</p>
+
+      <p>Morrisey asked the U.S. Supreme Court to take up the case.</p>
+
+      <p>“The Mountain Valley Pipeline is vital to the survival of American energy independence and affects thousands of jobs in West Virginia — its completion is also critical to our national security,” Morrisey said.</p>
+   
+      <p><strong> Read more </strong></p>
+
+      <p><strong> Have a tip? Contact us </strong></p>
+
+      <p>
+        <label for="">
+            Email: <input type="email" placeholder="example@gmail.com">
+        </label> <button>Submit</button>
+    </p>
+    </div>
+  </div>
+
+</body>
+</html>
