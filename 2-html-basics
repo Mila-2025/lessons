@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Vaggeryds kommun</title>
+  <style>
+    .vaggeryds-text {
+      color: black;
+    }
+
+    .text-body {
+      background: gray;
+    }
+    .upplev-vaggeryds--kommun {
+      background: darkgray;
+      padding: 10px;
+      text-align: left;
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <img src="vk-logo.jpeg" width="80px" alt="VK logo" />
+    <h1>VAGGERYDS KOMMUN</h1>
+    <p>Välkommen till vår kommun!</p>
+  </header>
+
+  <img src="banner.jpeg" alt="Banner image" width="100%" height="auto">
+  <br>
+    <header class="upplev-vaggeryds--kommun text-body">
+      <h1>Upplev Vaggeryds kommun</h1>
+  <div class="links">
+    <a href="https://www.vaggeryd.se/uppleva-och-gora/upplev-vaggeryds--kommun.html">
+      vaggeryd.se/evenemang
+    </a>
+    </header>
+  </div>
+<br>
+  <h2>Hitta direkt</h2>
+  <ul>
+    <li><a href="https://www.vaggeryd.se/uppleva-och-gora/idrott-motion-och-friluftsliv/friluftsliv-och-motion/badplatser.html">Badplatser</a></li>
+    <li><a href="https://www.vaggeryd.se/uppleva-och-gora/idrott-motion-och-friluftsliv/simhallen-skillingaryd.html">Simhallen Skillingaryd</a></li>
+    <li><a href="https://www.vaggeryd.se/uppleva-och-gora/bibliotek.html">Bibliotek</a></li>
+    <li><a href="https://vgd.maps.arcgis.com/apps/webappviewer/index.html?id=384a58d98c84465fac3b89f32c2f232a">Karta och geografiska information</a></li>
+
+      <main>
+      <section>
+        <h2>Bloggen Plats för att göra skillnad</h2>
+        <article>
+          <h3>En topp-10 lista från sommarens feriepraktikant</h3>
+          <p>Det här är utflyktsmål i Vaggeryds kommun som sommarens feriepraktikant Albert tipsar om. Bada är något som är kul, vilket ni också kommer se i listan!</p>
+        </article>
+        <article>
+          <h3>Möbelhistorien i Vaggeryds kommun</h3>
+          <p>Vaggeryds kommun har en lång historia av stark industri och invånare med entreprenörskap i blodet. Här har vi formats av vad den karga naturen hade att erbjuda och av våra förutsättningar med närhet till järnvägen och en lång tradition av gränslöst skapande.</p>
+        </article>
+      </section>
+    </main>
+
+<footer>
+  <h3>Kontakt</h3>
+  <p><strong>Växel:</strong> 0370-67 80 00</p>
+  <p><strong>E-post:</strong> <a href="mailto:info@vaggeryd.se">info@vaggeryd.se</a></p>
+  <p><strong>Adress:</strong> Box 43, 568 21 Skillingaryd</p>
+  <p><strong>Besök:</strong> Kommunhuset Skillingehus,<br>
+  Bangårdsgatan 2, Skillingaryd</p>
+</footer>
+  </body>
+</html>
